@@ -3,7 +3,8 @@
 
 SceneToStory is an AI-driven project designed to transform visual scenes into written stories. By combining computer vision and natural language processing, it interprets an image, generates a caption, and then expands that caption into a short narrative — bringing static visuals to life through storytelling.
 
-🧠 Vision
+🧠 Vision :
+
 To build a seamless creative pipeline where technology meets imagination — an AI that not only “sees” but also “feels” and “writes.”
 
 🔄 Project Flow (Planned Architecture)
