@@ -1,0 +1,45 @@
+# 🧠 Technologies & Skills for SceneToStory
+
+This file outlines the tools, libraries, and concepts needed to **build and run the SceneToStory project**.  
+It combines elements of **AI, NLP, and web development** to turn an image into a meaningful story.
+
+---
+
+## ⚙️ Core Languages
+- **Python** — main programming language  
+- **HTML / CSS / JavaScript** — for building the web interface
+
+---
+
+## 🤖 AI & Machine Learning
+- **OpenCV** — image handling and preprocessing  
+- **TensorFlow / PyTorch** — model development or inference  
+- **Transformers (Hugging Face)** — for text and story generation  
+- **NLP Fundamentals** — tokenization, prompt understanding, and text generation basics
+
+---
+
+## 🌐 Web Development
+- **Flask** or **Streamlit** — to create the user interface  
+- **Requests / FastAPI (optional)** — to handle backend communication  
+- **Frontend Basics** — for simple, clean user experience
+
+---
+
+## 🗂️ Project Setup & Tools
+- **Git & GitHub** — version control and collaboration  
+- **VS Code / Jupyter Notebook** — development environment  
+- **Virtual Environment (venv)** — manage dependencies  
+- **requirements.txt** — list project dependencies
+
+---
+
+## 🚀 Learning Goals
+- Understand how image captioning models function  
+- Connect multiple AI models into one workflow  
+- Build a working prototype with a web interface  
+- Improve code structure and documentation practices
+
+---
+
+> 🧾 **Note:** This file will be updated as the project grows.
