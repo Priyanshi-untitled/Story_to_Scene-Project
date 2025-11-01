@@ -1,26 +1,34 @@
 # Story_to_Scene-Project #
-🌌 SceneToStory — Turning Images into Imagination
+🎨 SceneToStory
 
-SceneToStory is an AI-driven project designed to transform visual scenes into written stories. By combining computer vision and natural language processing, it interprets an image, generates a caption, and then expands that caption into a short narrative — bringing static visuals to life through storytelling.
+SceneToStory is a creative AI-based project built around one simple thought — what if an image could tell its own story?
+It aims to blend computer vision with imagination, turning a single picture into a short written story that captures emotion, context, and depth.
 
-🧠 Vision :
+🌱 Project Overview
 
-To build a seamless creative pipeline where technology meets imagination — an AI that not only “sees” but also “feels” and “writes.”
+The journey begins when a user uploads an image.
 
-🔄 Project Flow (Planned Architecture)
-🖼️ Image Upload: User provides an image input.
-🤖 Caption Generation: Model 1 analyzes the image and produces a descriptive caption.
-✍️ Story Creation: Model 2 takes the caption and generates a short story around it.
-📜 Output Display: The final story is displayed on an intuitive web interface.
+The system first generates a caption describing what’s seen.
 
-🚧 Current Phase
-The workflow design and functional roadmap are complete. Development has just begun — focusing on model selection, backend logic, and interface setup. The goal right now is to build a working MVP that demonstrates the full flow from image to story.
+That caption then becomes the seed for a story — crafted by another model that builds meaning around it.
 
-💡 Upcoming Tasks
-1-Setting up a Streamlit or Flask-based interface
-2-Integrating pre-trained captioning models
-3-Experimenting with text-generation frameworks
-4-Refining the user experience for smoother interaction
+The result? A narrative born entirely from a scene.
 
-🎯 Long-Term Goal
-To create a platform where every image — from a simple click to a complex scene — can narrate its own unique story, powered by AI creativity.
+🧩 Current Progress
+
+The project flow is ready — image upload → caption → story → output.
+Now the real work starts: setting up the structure, exploring suitable AI models, and designing a clean, beginner-friendly interface.
+
+🚀 What’s Next
+
+Build the basic foundation of the project
+
+Experiment with caption-generation and story models
+
+Develop an interactive web interface for users
+
+Polish the overall flow and storytelling output
+
+🎯 Vision
+
+To create something that connects technology and creativity — where every picture has a voice, and every scene becomes a story worth reading.
