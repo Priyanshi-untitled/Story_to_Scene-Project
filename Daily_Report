@@ -1,0 +1,9 @@
+Day 1 – Report
+
+Work Done:
+--Learned what Streamlit is and how it’s used.
+--Explored how to run Python in Google Colab.
+--Studied Hugging Face Transformers and how to use pre-trained models in Python.
+
+Next Step:
+Implement the image-captioning (BLIP) model in Colab.
