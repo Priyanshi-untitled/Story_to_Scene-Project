@@ -7,3 +7,11 @@ Work Done:
 
 Next Step:
 Implement the image-captioning (BLIP) model in Colab.
+
+Day 2 Progress Report 🧠
+
+--Explored suitable libraries required for my project.
+--Read documentation and resources to understand their usage.
+--Deepened understanding of Streamlit and Hugging Face, as these are the main components used in my project.
+--Gained better clarity on how both tools integrate for building the final model.
+--Earlier, I thought of doing this project on Google Colab, but now I’m building it using VS Code.
